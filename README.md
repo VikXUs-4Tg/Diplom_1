@@ -34,4 +34,4 @@
 
 ### Ссылки:
 
-#### Ссылка на Pull-request: https://github.com/Yandex-Practicum/qa-python-diplom/pull/429
+#### Ссылка на Pull-request: https://github.com/VikXUs-4Tg/Diplom_1/pull/1
